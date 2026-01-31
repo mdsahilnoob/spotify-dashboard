@@ -1,3 +1,7 @@
+Note: currently this project is on hold because spotify wants to improve reliability and performance 🤡, and I can't generate an API key.
+
+spotify developer - https://developer.spotify.com/dashboard
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
